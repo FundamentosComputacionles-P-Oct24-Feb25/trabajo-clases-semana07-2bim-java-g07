@@ -1,3 +1,6 @@
+##Integrantes
+##Daniel Idrovo
+##Emilio Cueva 
 # Trabajo clases 07
 ## Segundo bimestre
 
